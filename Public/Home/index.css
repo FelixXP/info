@@ -7,6 +7,10 @@
     border: 0;
     padding: 0;
 }
+html{
+    font-size:100%;
+}
+
 li{list-style-type: none;}
 a{text-decoration: none;}
 
@@ -83,9 +87,24 @@ a{text-decoration: none;}
 }
 
 #team-info p{
+    text-indent: 2em;
     color: #022135;
     text-align:left;
     margin-top:1em;
     font-family: 'Kaiti', Georgia, Serif;
     line-height: 22px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

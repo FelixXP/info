@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <title>首页-信息论</title>
     <link href="/info/Public/Home/index.css" rel="stylesheet" type="text/css">
+    <script src="/info/Public/Common/JavaScript/jquery-2.2.3.min.js"></script>
 </head>
-<body>
+<body id="body">
 <!--添加登录条-->
 <!--登陆条-->
 <div id="loginBar">
@@ -18,19 +19,25 @@
 <div class="nav-wrap">
     <div class="title">
         <a href="#"><img class="logo" src="/info/Public/Common/Img/logo-info.png"/></a>
-        <strong>精品课程 信息论与编码</strong>
+        <strong>信息论与编码</strong>
         <span>Information Theory and Encoding</span>
     </div>
-    <ul id="nav">
-        <li><a href="#" id="current">首页</a></li>
-        <li><a href="#">教学录像</a></li>
-        <li><a href="#">自测训练</a></li>
-        <li><a href="#">交流讨论</a></li>
-        <li><a href="#">课程介绍</a></li>
-        <li><a href="#">资源下载</a></li>
-        <li><a href="#">评价反馈</a></li>
-        <!--<b class="clear"></b>-->
-    </ul>
+    <div class="container">
+        <button type="button" class="nav-btn dis-none">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <ul class="nav">
+            <li><a href="#" class="current">首页</a></li>
+            <li><a href="#">教学录像</a></li>
+            <li><a href="#">自测训练</a></li>
+            <li><a href="#">交流讨论</a></li>
+            <li><a href="#">课程介绍</a></li>
+            <li><a href="#">资源下载</a></li>
+            <li><a href="#">评价反馈</a></li>
+        </ul>
+    </div>
 </div>
 <img src="/info/Public/Home/Img/bg-index.png" class="bg-index">
 <div id="achievement">
@@ -80,8 +87,15 @@
     <h1>关于我们</h1>
     <span>About Us</span>
     <p>
-        《信息论与编码》课程组目前有成员10人，其中教授4人、副教授3人、讲师3人。课题组成员都是专业课教师，80%为中青年教师，90%具有博士学历。成员年龄结构合理，都是长期从事该课程教学研究，具有丰富教学和科研经验的教授和副教授；也有年轻有为的青年讲师作为课程的辅导教师/实验教师，辅导教师/实验教师都至少有5年以上教龄且都同时承担学院其它专业基础课程，具有一定的教学经验；辅导教师/实验教师与学生比例为1:23。目前青年教师都在积极申请出国研修计划，进一步提高教学和科研水平。课题组计划在两年内选送青年教师到国内著名大学进行深造学习，进一步丰富和提高该课程的教学内容和教学效果，这些都有助于课程建设和教学质量的稳步提高。
+        《信息论与编码》课程组目前有成员10人，其中教授4人、副教授3人、讲师3人。课题组成员都是专业课教师，80%为中青年教师，90%具有博士学历。
     </p>
+    <p>
+        成员年龄结构合理，都是长期从事该课程教学研究，具有丰富教学和科研经验的教授和副教授；也有年轻有为的青年讲师作为课程的辅导教师/实验教师，辅导教师/实验教师都至少有5年以上教龄且都同时承担学院其它专业基础课程，具有一定的教学经验；辅导教师/实验教师与学生比例为1:23。
+    </p>
+    <p>
+        目前青年教师都在积极申请出国研修计划，进一步提高教学和科研水平。课题组计划在两年内选送青年教师到国内著名大学进行深造学习，进一步丰富和提高该课程的教学内容和教学效果，这些都有助于课程建设和教学质量的稳步提高。
+    </p>
+
 </div>
 <!--添加页尾-->
 <div id="footer">
@@ -99,5 +113,8 @@
         <P>广东工业大学信息工程学院版权所有，保留最终解释权</P>
     </div>
 </div>
+<script src="/info/Public/Home/JavaScript/index.js">
+//    alert($(document).height()); //浏览器当前窗口文档的高度
+</script>
 </body>
 </html>

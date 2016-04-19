@@ -45,7 +45,7 @@
     <span>Teaching Achievements</span>
     <div class="achievement-list">
         <fieldset>
-            <legend>获得的荣誉</legend>
+            <legend>获得荣誉</legend>
             <ul>
                 <li>广东省优秀教学成果奖</li>
                 <li>广东工业大学教学成果奖</li>
@@ -55,7 +55,7 @@
             </ul>
         </fieldset>
         <fieldset>
-            <legend>课程的设计思想与效果</legend>
+            <legend>设计思想</legend>
                 <ul>
                     <li>概念讲述注重物理意义的分析</li>
                     <li>将先进的通信技术引入课堂</li>
@@ -65,7 +65,7 @@
                 </ul>
         </fieldset>
         <fieldset>
-            <legend>教学方法与教学手段</legend>
+            <legend>教学方法</legend>
                 <ul>
                     <li>运用灵活多样的教学手段，推进教学改革</li>
                     <li>建立学生小组，组织学生进行网络学习</li>
@@ -101,16 +101,16 @@
 <div id="footer">
     <div class="friendLink">
         <ul class="friendLink-list">
-            <li><a href="#" title="网站首页" rel="nofollow">网站首页</a></li>
-            <li><a href="#" title="学校首页" rel="nofollow">学校首页</a></li>
-            <li><a href="#" title="新闻动态" rel="nofollow">新闻动态</a></li>
-            <li><a href="#" title="关于我们" rel="nofollow">关于我们</a></li>
+            <li><a href="#" title="返回顶部" rel="nofollow">返回顶部</a></li>
+            <li class="link-dis-none"><a href="#" title="学校首页" rel="nofollow">学校首页</a></li>
+            <li class="link-dis-none"><a href="#" title="新闻动态" rel="nofollow">新闻动态</a></li>
+            <li class="link-dis-none"><a href="#" title="关于我们" rel="nofollow">关于我们</a></li>
             <li><a href="#" title="联系我们" rel="nofollow">联系我们</a></li>
             <li><a href="#" title="反馈留言" rel="nofollow">反馈留言</a></li>
         </ul>
     </div>
     <div class="copyRight">
-        <P>广东工业大学信息工程学院版权所有，保留最终解释权</P>
+        <P>&#174;广东工业大学信息工程学院</P>
     </div>
 </div>
 <script src="/info/Public/Home/JavaScript/index.js">

@@ -1,7 +1,7 @@
 /*首页样式表*/
-@import url('../Common/CSS/nav.css');
-@import url('../Common/CSS/loginBar.css');
-@import url('../Common/CSS/footer.css');
+@import url('../../Common/Css/nav.css');
+@import url('../../Common/Css/loginBar.css');
+@import url('../../Common/Css/footer.css');
 *{
     margin: 0;
     border: 0;

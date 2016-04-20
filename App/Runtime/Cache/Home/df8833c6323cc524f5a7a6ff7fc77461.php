@@ -1,10 +1,10 @@
 <?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
-<head lang="en">
+<head lang="zh-CN">
     <meta charset="UTF-8">
-    <title>首页-信息论</title>
-    <link href="/info/Public/Home/index.css" rel="stylesheet" type="text/css">
-    <script src="/info/Public/Common/JavaScript/jquery-2.2.3.min.js"></script>
+    <title>信息论-首页</title>
+    <link href="/info/Public/Home/Css/index.css" rel="stylesheet" type="text/css">
+    <script src="/info/Public/Common/Js/jquery-2.2.3.min.js"></script>
 </head>
 <body id="body">
 <!--添加登录条-->
@@ -29,8 +29,8 @@
             <span></span>
         </button>
         <ul class="nav">
-            <li><a href="#" class="current">首页</a></li>
-            <li><a href="#">教学录像</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/showIndex" class="current">首页</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/showVideo">教学录像</a></li>
             <li><a href="#">自测训练</a></li>
             <li><a href="#">交流讨论</a></li>
             <li><a href="#">课程介绍</a></li>
@@ -113,8 +113,6 @@
         <P>&#174;广东工业大学信息工程学院</P>
     </div>
 </div>
-<script src="/info/Public/Home/JavaScript/index.js">
-//    alert($(document).height()); //浏览器当前窗口文档的高度
-</script>
+<script src="/info/Public/Home/Js/index.js"></script>
 </body>
 </html>

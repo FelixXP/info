@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>信息论-视频录像</title>
+    <link href="__PUBLIC__/Home/Css/video.css" rel="stylesheet" type="text/css">
+    <script src="__PUBLIC__/Common/Js/jquery-2.2.3.min.js"></script>
+</head>
+<body>
+<!--添加登录条-->
+<include file="./loginBar"/>
+<!--添加导航栏-->
+<include file="./nav"/>
+
+<div class="video-wrap">
+    <div class="video">
+        <video src="__PUBLIC__/Common/Video/test.mp4" controls="controls">
+            您的浏览器不支持 video 标签。
+        </video>
+        <div class="video-list">
+            <h1>相关视频</h1>
+            <p class="subTitle">Related Video</p>
+            <ul>
+                <li>
+                    <div class="list-item">
+                        <a href="#">
+                            <img src="__PUBLIC__/Common/Img/list-item1.jpg">
+                            <span>视频1</span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="list-item">
+                        <a href="#">
+                            <img src="__PUBLIC__/Common/Img/list-item2.jpg">
+                            <span>视频2</span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="list-item">
+                        <a href="#">
+                            <img src="__PUBLIC__/Common/Img/list-item3.jpg">
+                            <span>视频3</span>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="comment">
+    <h1>评论</h1>
+    <p class="subTitle">comment</p>
+    <form action="#">
+        <textarea rows="4" cols="100" id="comment-submit" ></textarea>
+        <input type="submit" value="提交评论" />
+    </form>
+    <div class="comment-box">
+        <div class="comment-title">
+            <strong><img src="__PUBLIC__/Common/Img/logo-info.png" title="logo">评论列表</strong>
+            <label for="comment-submit"><img src="">我要评论</label>
+        </div>
+        <ul class="comment-list">
+            <li class="comment-row">
+                <img src="__PUBLIC__/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="__PUBLIC__/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+        </ul>
+
+        <div class="page">
+            <a href="#">1</a>
+            <a href="#">2</a>
+            <a href="#">3</a>
+            <a href="#">4</a>
+            <a href="#">5</a>
+            <a href="#">跳转到</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!--添加页尾-->
+<include file="./footer"/>
+<script src="__PUBLIC__/Home/Js/index.js"></script>
+</body>
+</html>

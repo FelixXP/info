@@ -15,7 +15,6 @@ $(document).ready(function(){
             //为折叠按钮添加点击事件
             navBtn.off("click","**");
             navBtn.on("click",function(){
-                console.log("onclick111");
                 if(nav.css("display") === "none"){
                     nav.removeClass("dis-none");
                 }

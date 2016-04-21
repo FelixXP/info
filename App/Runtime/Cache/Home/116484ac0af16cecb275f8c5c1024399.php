@@ -5,6 +5,11 @@
     <title>信息论-视频录像</title>
     <link href="/info/Public/Home/Css/video.css" rel="stylesheet" type="text/css">
     <script src="/info/Public/Common/Js/jquery-2.2.3.min.js"></script>
+    <!--IE8只能支持jQuery1.9-->
+    <!--[if lte IE 8]>
+    <link href="/info/Public/Common/Css/nav.css" rel="stylesheet" type="text/css">
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+    <![endif]-->
 </head>
 <body>
 <!--添加登录条-->
@@ -44,7 +49,7 @@
     <div class="video">
         <div class="video-box">
             <video src="/info/Public/Common/Video/test.mp4" controls="controls">
-                您的浏览器不支持 video 标签。
+                您的浏览器不支持 video 标签，请更新浏览器。
             </video>
         </div>
         <div class="video-list">
@@ -160,12 +165,16 @@
         </ul>
 
         <div class="page">
+            <a href="#">上一页</a>
             <a href="#">1</a>
             <a href="#">2</a>
             <a href="#">3</a>
             <a href="#">4</a>
             <a href="#">5</a>
+            <a href="#">下一页</a>
+            <input type="text" />
             <a href="#">跳转到</a>
+
         </div>
     </div>
 </div>
@@ -192,5 +201,7 @@
     </div>
 </div>
 <script src="/info/Public/Home/Js/index.js"></script>
+<!--让IE8支持媒体查询-->
+<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
 </body>
 </html>

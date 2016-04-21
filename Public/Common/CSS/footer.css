@@ -32,3 +32,8 @@
 .copyRight p{
     color:#333;
 }
+
+
+#footer .link-dis-none{
+    display: none;
+}

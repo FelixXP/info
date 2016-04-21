@@ -42,9 +42,11 @@
 
 <div class="video-wrap">
     <div class="video">
-        <video src="/info/Public/Common/Video/test.mp4" controls="controls">
-            您的浏览器不支持 video 标签。
-        </video>
+        <div class="video-box">
+            <video src="/info/Public/Common/Video/test.mp4" controls="controls">
+                您的浏览器不支持 video 标签。
+            </video>
+        </div>
         <div class="video-list">
             <h1>相关视频</h1>
             <p class="subTitle">Related Video</p>
@@ -73,6 +75,7 @@
                         </a>
                     </div>
                 </li>
+                <b class="clear-float"></b>
             </ul>
         </div>
     </div>
@@ -87,8 +90,8 @@
     </form>
     <div class="comment-box">
         <div class="comment-title">
-            <strong><img src="/info/Public/Common/Img/logo-info.png" title="logo">评论列表</strong>
-            <label for="comment-submit"><img src="">我要评论</label>
+            <strong><img src="/info/Public/Common/Img/notepad.png" title="logo">评论列表</strong>
+            <label for="comment-submit"><img src="/info/Public/Common/Img/pen.png">我要评论</label>
         </div>
         <ul class="comment-list">
             <li class="comment-row">
@@ -97,6 +100,55 @@
                     <strong>Felix</strong><span>2016-04-06 21:54:50</span>
                 </p>
                 <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
+            </li>
+            <li class="comment-row">
+                <img src="/info/Public/Common/Img/list-item1.jpg">
+                <p class="comment-row-title">
+                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
+                </p>
+                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
             </li>
             <li class="comment-row">
                 <img src="/info/Public/Common/Img/list-item1.jpg">

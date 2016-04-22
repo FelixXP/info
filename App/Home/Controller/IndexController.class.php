@@ -5,11 +5,8 @@ class IndexController extends Controller {
     public function index(){
         $this->display('Home/index');
     }
-    public function showVideo(){
-        $this->display('Home/video');
-    }
-
-    public function showIndex(){
-        $this->display('Home/index');
+    public function show(){
+        $aim = I("get.aim");
+        $this->display('Home/'.$aim);
     }
 }

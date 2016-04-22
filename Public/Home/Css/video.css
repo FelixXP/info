@@ -213,6 +213,7 @@ a{text-decoration: none;}
 .page input{
     display: inline;
     width:2em;
+    margin-left:2px;
 }
 
 .page a{
@@ -220,10 +221,13 @@ a{text-decoration: none;}
     color:#333;
 }
 
-.page a:hover,.page a:focus,.page a:active{
-    /*font-weight: bold;*/
+.page a:hover,.page .page-current{
     color:blue;
     text-decoration: underline;
+}
+
+.page a:focus{
+    text-decoration:none;
 }
 
 

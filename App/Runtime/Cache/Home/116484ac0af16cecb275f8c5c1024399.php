@@ -34,8 +34,8 @@
             <span></span>
         </button>
         <ul class="nav">
-            <li><a href="http://localhost/info/index.php/Home/Index/showIndex" class="current">首页</a></li>
-            <li><a href="http://localhost/info/index.php/Home/Index/showVideo">教学录像</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/index" class="current">首页</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/video">教学录像</a></li>
             <li><a href="#">自测训练</a></li>
             <li><a href="#">交流讨论</a></li>
             <li><a href="#">课程介绍</a></li>
@@ -165,15 +165,15 @@
         </ul>
 
         <div class="page">
-            <a href="#">上一页</a>
-            <a href="#">1</a>
-            <a href="#">2</a>
-            <a href="#">3</a>
-            <a href="#">4</a>
-            <a href="#">5</a>
-            <a href="#">下一页</a>
+            <a href="#"  name="pre">上一页</a>
+            <a href="#" class="page-current" name="page1">1</a>
+            <a href="#" name="page2">2</a>
+            <a href="#" name="page3">3</a>
+            <a href="#" name="page4">4</a>
+            <a href="#" name="page5" class="page-last">5</a>
+            <a href="#" name="next">下一页</a>
             <input type="text" />
-            <a href="#">跳转到</a>
+            <a href="#" name="jump">跳转到</a>
 
         </div>
     </div>
@@ -201,7 +201,8 @@
     </div>
 </div>
 <script src="/info/Public/Home/Js/index.js"></script>
+<script src="/info/Public/Home/Js/video.js"></script>
 <!--让IE8支持媒体查询-->
-<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
+<!--<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>-->
 </body>
 </html>

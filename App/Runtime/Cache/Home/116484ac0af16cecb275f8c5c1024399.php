@@ -36,7 +36,7 @@
         <ul class="nav">
             <li><a href="http://localhost/info/index.php/Home/Index/show/aim/index" class="current">首页</a></li>
             <li><a href="http://localhost/info/index.php/Home/Index/show/aim/video">教学录像</a></li>
-            <li><a href="#">自测训练</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/exercise">自测训练</a></li>
             <li><a href="#">交流讨论</a></li>
             <li><a href="#">课程介绍</a></li>
             <li><a href="#">资源下载</a></li>
@@ -203,6 +203,6 @@
 <script src="/info/Public/Home/Js/index.js"></script>
 <script src="/info/Public/Home/Js/video.js"></script>
 <!--让IE8支持媒体查询-->
-<!--<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>-->
+<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
 </body>
 </html>

@@ -1,5 +1,6 @@
 ﻿/*导航*/
-
+li{list-style-type: none;}
+a{text-decoration: none;}
 .nav-wrap{
     margin:16px auto 0 6%;
 }

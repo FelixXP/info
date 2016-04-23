@@ -1,0 +1,7 @@
+/*自测训练
+* 选择范围，IE不支持hidden属性
+*
+*/
+#select-test{
+    display: none;
+}

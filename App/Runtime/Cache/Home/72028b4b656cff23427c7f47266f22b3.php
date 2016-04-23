@@ -1,17 +1,18 @@
 <?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
-<html lang="zh-CN">
-<head>
+<html>
+<head lang="zh-CN">
     <meta charset="UTF-8">
-    <title>信息论-视频录像</title>
-    <link href="/info/Public/Home/Css/video.css" rel="stylesheet" type="text/css">
+    <title>信息论-首页</title>
+    <link href="/info/Public/Home/Css/discussion.css" rel="stylesheet" type="text/css">
     <script src="/info/Public/Common/Js/jquery-2.2.3.min.js"></script>
     <!--IE8只能支持jQuery1.9-->
     <!--[if lte IE 8]>
     <link href="/info/Public/Common/Css/nav.css" rel="stylesheet" type="text/css">
     <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
     <![endif]-->
+    <script src="/info/Public/Common/Js/common.js"></script>
 </head>
-<body>
+<body id="body">
 <!--添加登录条-->
 <!--登陆条-->
 <div id="loginBar">
@@ -45,119 +46,57 @@
     </div>
 </div>
 
-<div class="video-wrap">
-    <div class="video">
-        <div class="video-box">
-            <video src="/info/Public/Common/Video/test.mp4" controls="controls">
-                您的浏览器不支持 video 标签，请更新浏览器。
-            </video>
-        </div>
-        <div class="video-list">
-            <h1>相关视频</h1>
-            <p class="subTitle">Related Video</p>
-            <ul>
-                <li>
-                    <div class="list-item">
-                        <a href="#">
-                            <img src="/info/Public/Common/Img/list-item1.jpg">
-                            <span>视频1</span>
-                        </a>
-                    </div>
-                </li>
-                <li>
-                    <div class="list-item">
-                        <a href="#">
-                            <img src="/info/Public/Common/Img/list-item2.jpg">
-                            <span>视频2</span>
-                        </a>
-                    </div>
-                </li>
-                <li>
-                    <div class="list-item">
-                        <a href="#">
-                            <img src="/info/Public/Common/Img/list-item3.jpg">
-                            <span>视频3</span>
-                        </a>
-                    </div>
-                </li>
-                <b class="clear-float"></b>
-            </ul>
-        </div>
+<div class="lecture-wrap">
+    <div class="lecture">
+        <div><a href="#">信息论在图像性能上的应用</a></div>
+        <span>专题讲座</span>
+        <div><a href="#">编解码设计与实现</a></div>
     </div>
 </div>
 
-<div class="comment">
-    <h1>评论</h1>
-    <p class="subTitle">comment</p>
-    <form action="#">
-        <textarea rows="4" cols="100" id="comment-submit" ></textarea>
-        <input type="submit" value="提交评论" />
+<div class="discussion">
+    <h1>交流讨论</h1>
+    <p class="subTitle">discussion</p>
+    <form action="#" class="discussion-form">
+        <textarea rows="4" cols="100" id="discussion-submit" ></textarea>
+        <label><input name="discussion-type" type="radio" value="review" />心得 </label>
+        <label><input name="discussion-type" type="radio" value="question" />疑问 </label>
+        <label><input name="discussion-type" type="radio" value="comment" />吐槽 </label>
+        <span class="msg"></span>
+        <input type="submit" value="留言讨论" />
     </form>
-    <div class="comment-box">
-        <div class="comment-title">
-            <strong><img src="/info/Public/Common/Img/notepad.png" title="logo">评论列表</strong>
-            <label for="comment-submit"><img src="/info/Public/Common/Img/pen.png">我要评论</label>
+    <div class="discussion-box">
+        <div class="discussion-tag">
+            <input type="button" value="全部" class="choose" data-show="all"/>
+            <input type="button" value="心得" data-show="review"/>
+            <input type="button" value="疑问" data-show="question"/>
+            <input type="button" value="吐槽" data-show="comment"/>
         </div>
-        <ul class="comment-list">
-            <li class="comment-row">
+        <ul class="discussion-list">
+            <li class="discussion-row">
                 <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
+                <p class="discussion-row-title">
                     <strong>Felix</strong><span>2016-04-06 21:54:50</span>
                 </p>
                 <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
             </li>
-            <li class="comment-row">
+            <li class="discussion-row">
                 <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
+                <p class="discussion-row-title">
                     <strong>Felix</strong><span>2016-04-06 21:54:50</span>
                 </p>
                 <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
             </li>
-            <li class="comment-row">
+            <li class="discussion-row">
                 <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
+                <p class="discussion-row-title">
                     <strong>Felix</strong><span>2016-04-06 21:54:50</span>
                 </p>
                 <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
             </li>
-            <li class="comment-row">
+            <li class="discussion-row">
                 <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
-                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
-                </p>
-                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
-            </li>
-            <li class="comment-row">
-                <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
-                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
-                </p>
-                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
-            </li>
-            <li class="comment-row">
-                <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
-                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
-                </p>
-                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
-            </li>
-            <li class="comment-row">
-                <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
-                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
-                </p>
-                <p>神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代神明之胄动画全集这是一个图腾崇拜的时代</p>
-            </li>
-            <li class="comment-row">
-                <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
-                    <strong>Felix</strong><span>2016-04-06 21:54:50</span>
-                </p>
-                <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
-            </li>
-            <li class="comment-row">
-                <img src="/info/Public/Common/Img/list-item1.jpg">
-                <p class="comment-row-title">
+                <p class="discussion-row-title">
                     <strong>Felix</strong><span>2016-04-06 21:54:50</span>
                 </p>
                 <p>神明之胄动画全集这是一个图腾崇拜的时代</p>
@@ -178,12 +117,6 @@
         </div>
     </div>
 </div>
-
-
-
-
-
-
 <!--添加页尾-->
 <div id="footer">
     <div class="friendLink">
@@ -201,7 +134,7 @@
     </div>
 </div>
 <script src="/info/Public/Home/Js/index.js"></script>
-<script src="/info/Public/Home/Js/video.js"></script>
+<script src="/info/Public/Home/Js/discussion.js"></script>
 <!--让IE8支持媒体查询-->
 <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
 </body>

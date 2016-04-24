@@ -55,11 +55,6 @@ $(document).ready(function(){
 //选择标签
 $(document).ready(function(){
     $(".discussion-tag input").click(function(){
-        var current = $(".choose");
-        var choose = $(this);
-        if(current.data("show") !== choose.data("show")){
-            changeClass(current,choose,"choose");
-            return false;
-        }
+        clickSwitch($(".choose"),$(this),"choose");
     });
 });

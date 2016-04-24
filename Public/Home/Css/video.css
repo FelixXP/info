@@ -7,6 +7,17 @@
     padding:0;
 }
 
+/*导航栏*/
+.nav .nav-video{
+    background-color:#efebf8;
+    border-bottom:4px solid #5BAEFF
+}
+.nav li a[class=nav-video]:hover,
+.nav li a[class=nav-video]:focus,
+.nav li a[class=nav-video]:active{
+    color:#333;
+}
+
 .video-wrap{
     padding:1em 0;
     position: relative;

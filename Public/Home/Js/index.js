@@ -1,6 +1,9 @@
 /**
  * Created by Felix on 2016/4/15.
  */
+
+
+
 //根据屏幕大小自适应导航栏
 $(document).ready(function(){
     changeNav();
@@ -41,3 +44,6 @@ $(document).ready(function(){
         changeFlag = true;
     });
 });
+
+
+

@@ -2,12 +2,12 @@
 <html>
 <head lang="zh-CN">
     <meta charset="UTF-8">
-    <title>信息论-首页</title>
+    <title>信息论-讨论交流</title>
     <link href="/info/Public/Home/Css/discussion.css" rel="stylesheet" type="text/css">
     <script src="/info/Public/Common/Js/jquery-2.2.3.min.js"></script>
     <!--IE8只能支持jQuery1.9-->
     <!--[if lte IE 8]>
-    <link href="/info/Public/Common/Css/nav.css" rel="stylesheet" type="text/css">
+    <link href="/info/Public/Common/Css/IE.css" rel="stylesheet" type="text/css">
     <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
     <![endif]-->
     <script src="/info/Public/Common/Js/common.js"></script>
@@ -35,11 +35,11 @@
             <span></span>
         </button>
         <ul class="nav">
-            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/index" class="current">首页</a></li>
-            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/video">教学录像</a></li>
-            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/exercise">自测训练</a></li>
-            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/discussion">交流讨论</a></li>
-            <li><a href="#">课程介绍</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/index" class="nav-index">首页</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/video" class="nav-video">教学录像</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/exercise" class="nav-exercise">自测训练</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/discussion" class="nav-discussion">交流讨论</a></li>
+            <li><a href="http://localhost/info/index.php/Home/Index/show/aim/introduction" class="nav-introduction" >课程介绍</a></li>
             <li><a href="#">资源下载</a></li>
             <li><a href="#">评价反馈</a></li>
         </ul>
@@ -122,9 +122,9 @@
     <div class="friendLink">
         <ul class="friendLink-list">
             <li><a href="#" title="返回顶部" rel="nofollow">返回顶部</a></li>
-            <li class="link-dis-none"><a href="#" title="学校首页" rel="nofollow">学校首页</a></li>
-            <li class="link-dis-none"><a href="#" title="新闻动态" rel="nofollow">新闻动态</a></li>
-            <li class="link-dis-none"><a href="#" title="关于我们" rel="nofollow">关于我们</a></li>
+            <li ><a href="#" title="学校首页" rel="nofollow">学校首页</a></li>
+            <li ><a href="#" title="新闻动态" rel="nofollow">新闻动态</a></li>
+            <li ><a href="#" title="关于我们" rel="nofollow">关于我们</a></li>
             <li><a href="#" title="联系我们" rel="nofollow">联系我们</a></li>
             <li><a href="#" title="反馈留言" rel="nofollow">反馈留言</a></li>
         </ul>

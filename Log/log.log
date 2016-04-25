@@ -91,3 +91,12 @@
 添加点击切换函数clickSwitch(current,choose,clName)
 current当前选择 choose新点击 clName切换的类名
 新点击与当前不一样的时候切换类名
+
+
+
+@Felix 2016.4.25 添加资源下载页面
+-----------------------------------------------------------
+具体:
+添加resource.html/resource.js/resource.css
+
+主导航链接绑定域名www.felixp.cn

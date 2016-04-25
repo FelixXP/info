@@ -2,27 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c14d024-c758-4b9a-b6ec-e8c3fde2cd8b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Log/更新日志.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/0206a758f7a58734574d4de2bc5a69dc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/07b0b61bddb131b8c771232a1bd3fb71.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/116484ac0af16cecb275f8c5c1024399.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/20914c0f075f91df3579ffbdf5180b02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/6a992d5529f459a44fee58c733255e86.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/72028b4b656cff23427c7f47266f22b3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/a961ba3c594bd08ecb6794f077ed2041.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/c1473de877e979449d281de6f6296d00.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/d72e5ee9b367833956ed9f88a960c686.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/df8833c6323cc524f5a7a6ff7fc77461.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/e3ee8a3d01d8d6147afd0cb3f30176b1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/eacf331f0ffc35d4b482f1d15a887d3b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Data/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_12.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_13.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_15.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_19.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_22.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Common/16_04_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_12.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_13.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_15.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_16.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_19.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_20.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_21.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_22.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_24.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Logs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Runtime/Temp/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Common/Img/list-item1.jpg" afterPath="$PROJECT_DIR$/Public/Common/Img/list-item1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Common/Img/list-item2.jpg" afterPath="$PROJECT_DIR$/Public/Common/Img/list-item2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Common/Img/list-item3.jpg" afterPath="$PROJECT_DIR$/Public/Common/Img/list-item3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/Home/discussion.html" afterPath="$PROJECT_DIR$/App/Home/View/Home/discussion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/Home/exercise.html" afterPath="$PROJECT_DIR$/App/Home/View/Home/exercise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/Home/index.html" afterPath="$PROJECT_DIR$/App/Home/View/Home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/Home/video.html" afterPath="$PROJECT_DIR$/App/Home/View/Home/video.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/footer.html" afterPath="$PROJECT_DIR$/App/Home/View/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Home/View/nav.html" afterPath="$PROJECT_DIR$/App/Home/View/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/116484ac0af16cecb275f8c5c1024399.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Home/116484ac0af16cecb275f8c5c1024399.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/72028b4b656cff23427c7f47266f22b3.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Home/72028b4b656cff23427c7f47266f22b3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/a961ba3c594bd08ecb6794f077ed2041.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Home/a961ba3c594bd08ecb6794f077ed2041.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Home/df8833c6323cc524f5a7a6ff7fc77461.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Home/df8833c6323cc524f5a7a6ff7fc77461.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_23.log" afterPath="$PROJECT_DIR$/App/Runtime/Logs/Home/16_04_23.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Common/Js/common.js" afterPath="$PROJECT_DIR$/Public/Common/Js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/CSS/index.css" afterPath="$PROJECT_DIR$/Public/Home/CSS/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Css/IE.css" afterPath="$PROJECT_DIR$/Public/Home/Css/IE.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Css/discussion.css" afterPath="$PROJECT_DIR$/Public/Home/Css/discussion.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Css/exercise.css" afterPath="$PROJECT_DIR$/Public/Home/Css/exercise.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Css/video.css" afterPath="$PROJECT_DIR$/Public/Home/Css/video.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Js/discussion.js" afterPath="$PROJECT_DIR$/Public/Home/Js/discussion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Js/index.js" afterPath="$PROJECT_DIR$/Public/Home/Js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Log/log.log" afterPath="$PROJECT_DIR$/Log/log.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/Home/Css/introduction.css" afterPath="$PROJECT_DIR$/Public/Home/Css/introduction.css" />
     </list>
     <ignored path="info.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,41 +64,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public/Home/Css/resource.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24124514">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="introduction.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/Home/Css/introduction.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0285716">
-              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/Home/Js/introduction.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Public/Common/Js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8051002">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/Common/Css/nav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8">
-              <caret line="115" column="36" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
+            <state vertical-scroll-proportion="-15.428572">
+              <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -87,76 +97,75 @@
       <file leaf-file-name="introduction.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Home/View/Home/introduction.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8857143">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="31" />
+            <state vertical-scroll-proportion="-1.4857143">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/Home/Js/resource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Home/View/Home/resource.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5142856">
+              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
               <folding>
-                <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#2;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#3;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#4;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#1;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#1;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#2;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#4;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#5;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#6;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#7;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#8;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#9;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#10;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#11;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#12;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#13;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#0;n#table#0;n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#1;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#2;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#3;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.428571">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/Home/Css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.342857">
-              <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/Home/Js/index.js">
+      <file leaf-file-name="exercise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/Home/Js/exercise.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Home/View/Home/exercise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.6857142">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Home/View/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.9428573">
+              <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feedback.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Home/View/Home/feedback.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.9714286">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -167,9 +176,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -217,12 +226,17 @@
         <option value="$PROJECT_DIR$/Public/Home/Css/exercise.css" />
         <option value="$PROJECT_DIR$/Public/Home/Css/index.css" />
         <option value="$PROJECT_DIR$/Public/Home/Css/video.css" />
-        <option value="$PROJECT_DIR$/App/Home/View/nav.html" />
         <option value="$PROJECT_DIR$/App/Home/View/footer.html" />
         <option value="$PROJECT_DIR$/Public/Common/Css/nav.css" />
         <option value="$PROJECT_DIR$/App/Home/View/Home/introduction.html" />
         <option value="$PROJECT_DIR$/Public/Home/Js/introduction.js" />
+        <option value="$PROJECT_DIR$/Public/Home/resource.css" />
+        <option value="$PROJECT_DIR$/App/Home/View/Home/feedback.html" />
         <option value="$PROJECT_DIR$/Public/Home/Css/introduction.css" />
+        <option value="$PROJECT_DIR$/App/Home/View/nav.html" />
+        <option value="$PROJECT_DIR$/Public/Home/Js/resource.js" />
+        <option value="$PROJECT_DIR$/App/Home/View/Home/resource.html" />
+        <option value="$PROJECT_DIR$/Public/Home/Css/resource.css" />
       </list>
     </option>
   </component>
@@ -267,7 +281,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -310,121 +323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Css" />
+              <option name="myItemId" value="Log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,99 +338,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -546,11 +358,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\info\Public\Home\Img" />
+      <recent name="D:\XAMPP\htdocs\info\Public\Home\Css" />
       <recent name="D:\XAMPP\htdocs\info\Public\Home\CSS" />
       <recent name="D:\XAMPP\htdocs\info\Public\Common\JavaScript" />
       <recent name="D:\XAMPP\htdocs\info\Public\Common\Image" />
-      <recent name="D:\XAMPP\htdocs\info\App\Home\View" />
-      <recent name="D:\XAMPP\htdocs\info\Public\Common\CSS" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\XAMPP\htdocs\info\Public\Home\Img" />
@@ -611,7 +423,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1555387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16464339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -646,68 +458,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Public/Common/Img/logo-info.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Css/loginBar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Home/Css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Home/View/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Img/logo-info.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/Common/Css/loginBar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -727,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,13 +584,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Home/Js/exercise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Home/Common/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -877,20 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/exercise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6857142">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/video.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6857142">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Home/View/Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.914286">
@@ -905,19 +633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Home/Css/exercise.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/Home/Css/IE.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,30 +658,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="169" column="29" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Home/View/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1634241">
-          <caret line="18" column="114" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.428571">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/Home/Css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.342857">
+        <state vertical-scroll-proportion="0.0">
           <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Common/Css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="36" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -973,61 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8">
-          <caret line="115" column="36" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8857143">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#3;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#4;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#4;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#5;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#7;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#8;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#9;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#10;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#11;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#12;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#13;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#0;n#table#0;n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#3;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1035,22 +687,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Common/Js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Img/bookmark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Img/icon-ebook.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Img/icon-paper.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Img/icon-ppt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Img/icon-video.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Css/exercise.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="74" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Js/exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6857142">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9714286">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Home/View/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9428573">
+          <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Js/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/introduction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4857143">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/Home/Css/introduction.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0285716">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        <state vertical-scroll-proportion="-15.428572">
+          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Common/Js/common.js">
+    <entry file="file://$PROJECT_DIR$/App/Home/View/Home/resource.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8051002">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="18" />
+        <state vertical-scroll-proportion="-6.5142856">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/Css/resource.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24124514">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding />
         </state>
       </provider>
